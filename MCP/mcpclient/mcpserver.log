@@ -3492,3 +3492,45 @@ java.lang.Exception: exception just for purpose of providing stack trace
 2025-12-27 01:01:39.508 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn8: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
 2025-12-27 01:01:44.699 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
 2025-12-27 01:01:44.699 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:02:14.118 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn0: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:02:14.704 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:02:14.704 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:02:20.144 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn6: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:02:27.804 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn4: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:02:34.110 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn7: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:02:41.975 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn9: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:02:42.862 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn1: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:02:44.714 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:02:44.714 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:02:58.852 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn2: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:03:11.561 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn3: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:03:14.722 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:03:14.722 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:03:26.835 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn5: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:03:32.242 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn8: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:03:44.733 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:03:44.733 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:04:05.687 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn6: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:04:10.761 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn0: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:04:14.123 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn4: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:04:14.745 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:04:14.745 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:04:21.038 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn7: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:04:41.650 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn9: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:04:42.689 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn1: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:04:44.760 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:04:44.760 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:04:48.287 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn2: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:05:02.256 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn3: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:05:14.771 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:05:14.771 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:05:19.057 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn5: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:05:24.983 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn8: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:05:44.773 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:05:44.773 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.
+2025-12-27 01:05:51.230 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn6: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:06:00.440 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn4: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:06:07.396 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn0: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:06:07.974 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - keepalive: connection conn7: url=jdbc:h2:file:C://Users//lenovo//chatmemory user=PHANI is alive
+2025-12-27 01:06:14.788 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Pool stats (total=10/10, idle=10/10, active=0, waiting=0)
+2025-12-27 01:06:14.788 [HikariPool-1:housekeeper] DEBUG com.zaxxer.hikari.pool.HikariPool - HikariPool-1 - Fill pool skipped, pool has sufficient level or currently being filled.

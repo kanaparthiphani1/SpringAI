@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "spring-ai-mcp": {
+      "command": "C:/Program Files/Java/jdk-21/bin/java",
+      "args": [
+        "-jar",
+        "D:/Gen-AI/mcpserverstdio-0.0.1-SNAPSHOT.jar",
+        "--spring.ai.mcp.server.mode=stdio"
+      ]
+    }
+  }
+}
